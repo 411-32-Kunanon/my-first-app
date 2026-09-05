@@ -103,7 +103,7 @@ ans3 = st.text_input(
     value=st.session_state.ans3_val,
 )
 ans4 = st.text_input(
-    "ข้อ 4: Students use a `r u _ _ r` . 📏",
+    "ข้อ 4: `r u _ _ r` . 📏",
     value=st.session_state.ans4_val,
 )
 
